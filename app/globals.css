@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050816;
+  --foreground: #fdf4ff;
+}
+
+html,
+body {
+  @apply h-full;
+}
+
+body {
+  @apply bg-[#05020B] text-white antialiased;
+}
+
+main {
+  @apply min-h-screen;
+}
+
+.glass-panel {
+  @apply bg-white/10 border border-white/15 backdrop-blur-xl shadow-glass;
+}
+
+.nav-blur {
+  @apply bg-gradient-to-b from-[#05020B]/85 via-[#05020B]/55 to-transparent backdrop-blur-xl;
+}
+
+.card-row-mask {
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 1), transparent);
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 1),
+    transparent
+  );
+}
+
