@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import type { Session } from "./sessions-api-route";
+import type { Session } from "@/components/sessions/sessions-api-route";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Star rating display
