@@ -1,4 +1,3 @@
-// app/blog/[slug]/page.tsx
 import BlogDetailPage, { MOCK_POST } from "@/components/blog/Blogdetailpage";
 import type { Metadata } from "next";
 
@@ -6,12 +5,7 @@ interface Props {
   params: { slug: string };
 }
 
-// In production: fetch post by slug from your API/CMS
 async function getPost(slug: string) {
-  // TODO: replace with real API call
-  // const res = await fetch(`${process.env.API_URL}/api/blog/${slug}`);
-  // if (!res.ok) notFound();
-  // return res.json();
   return { ...MOCK_POST, id: slug };
 }
 

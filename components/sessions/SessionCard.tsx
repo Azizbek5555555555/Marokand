@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import type { Session } from "./sessions-api-route";
+import type { Session } from "@/app/api/sessions/route";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Star rating display
