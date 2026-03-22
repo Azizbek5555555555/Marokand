@@ -1,0 +1,47 @@
+[
+    {
+      "id": "concert_001",
+      "slug": "unutulmas-kecha-simfonik-konsert",
+      "title": "Unutulmas kecha — Simfonik konsert va klassik musiqa oqshomi",
+      "heroImage": "/images/blog/blog-ensemble.jpg",
+      "description": "O'zbekiston davlat simfonik orkestri tomonidan taqdim etiladigan bu noyob oqshomda Bethoven, Motsart va Chaykovskiyning eng mashhur asarlari ijro etiladi.\n\nKonsert davomida taniqli solistlar va yoshlik istiqbolli musiqachilar ham sahnaga chiqadi. Har bir nota, har bir akkord — bu bir umrlik xotira.\n\nZalning mukammal akustikasi va professional yoritish tizimi bilan bu konsert sizga haqiqiy simfonik tajribani his ettiradi.",
+      "date": "2025-04-15",
+      "time": "19:00 - 21:30",
+      "location": "Mirzo Ulugbek ko'chasi 61, Samarqand",
+      "price": "70,000 — 150,000 so'm",
+      "tag": "Klassik musiqa",
+      "status": "active",
+      "createdAt": "2025-03-10T10:00:00.000Z",
+      "updatedAt": "2025-03-10T10:00:00.000Z"
+    },
+    {
+      "id": "concert_002",
+      "slug": "yosh-iqtidorlar-bahari",
+      "title": "Yosh iqtidorlar bahori — Respublika tanlovi g'oliblari konserti",
+      "heroImage": "/images/blog/blog-scholar.jpg",
+      "description": "Respublika yoshlar musiqa tanlovi g'oliblari birinchi marta katta sahnaga chiqadi. Bu konsert yosh iqtidorlarni qo'llab-quvvatlash va ularning san'atini tomoshabinlarga taqdim etish maqsadida o'tkaziladi.\n\nPiano, skripka, violonchel va vokal yo'nalishlarida eng yaxshi o'rinlarni egallaganlar bu kechada o'zlarining mahoratini namoyish etadi.\n\nKontsert so'ngida g'oliblar mukofotlash marosimi ham bo'lib o'tadi.",
+      "date": "2025-04-22",
+      "time": "18:00 - 20:00",
+      "location": "Mirzo Ulugbek ko'chasi 61, Samarqand",
+      "price": "50,000 — 100,000 so'm",
+      "tag": "Yosh iqtidorlar",
+      "status": "active",
+      "createdAt": "2025-03-12T10:00:00.000Z",
+      "updatedAt": "2025-03-12T10:00:00.000Z"
+    },
+    {
+      "id": "concert_003",
+      "slug": "milliy-musiqa-festivali",
+      "title": "Milliy musiqa festivali — O'zbek xalq kuy va qo'shiqlari kechasi",
+      "heroImage": "/images/blog/blog-performers.jpg",
+      "description": "O'zbek xalq musiqasining eng go'zal namunalari — doira, dutor, g'ijjak va rubob sozlari jo'rligida yangrashi. Bu kecha — milliy madaniyatimizning bayramidir.\n\nO'zbekistonning turli viloyatlaridan kelgan xalq san'atkkorlari o'zlarining an'anaviy kuy va qo'shiqlarini taqdim etadi. Har bir region o'zining noyob musiqa merosini sahnaga olib chiqadi.\n\nKonsert davomida milliy kiyimlar namoyishi va xalq o'yinlari ham bo'lib o'tadi.",
+      "date": "2025-05-01",
+      "time": "17:00 - 21:00",
+      "location": "Mirzo Ulugbek ko'chasi 61, Samarqand",
+      "price": "40,000 — 80,000 so'm",
+      "tag": "Xalq musiqasi",
+      "status": "active",
+      "createdAt": "2025-03-14T10:00:00.000Z",
+      "updatedAt": "2025-03-14T10:00:00.000Z"
+    }
+  ]

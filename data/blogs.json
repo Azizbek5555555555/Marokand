@@ -1,0 +1,43 @@
+[
+    {
+      "id": "blog_001",
+      "slug": "ichki-turizm-yangi-nafas",
+      "title": "Siz chet elga chiqmasdan ham unutilmas tajribalarni shu yerning o'zida topishingiz mumkin",
+      "heroImage": "/images/blog/blog-ensemble.jpg",
+      "heroCaption": "Ichki turizm orqali o'z tariximizni, o'zligimizni chuqurroq anglab yetamiz.",
+      "body": "O'zbekiston ichki turizmi nafaqat tarixiy maskanlar bilan, balki zamonaviy ekoturizm, oilaviy dam olish va sog'lomlashtirish maskanlari bilan ham boyib bormoqda.\n\nO'zbekiston ichki turizmi nafaqat tarixiy maskanlar bilan, balki zamonaviy ekoturizm, oilaviy dam olish va sog'lomlashtirish maskanlari bilan ham boyib bormoqda. Har bir viloyat o'zining betakror tabiati, qadimiy yodgorliklari va mehmondo'st aholisi bilan sizni iliq kutib oladi.\n\nSamarqand, Buxoro, Xiva kabi qadimiy shaharlar nafaqat tarixiy ahamiyatga ega, balki zamonaviy sayohatchilar uchun ham o'ziga xos joziba markaziga aylangan.",
+      "secondImage": "/images/blog/blog-stage.jpg",
+      "outroHeading": "O'zbekiston ichida yangi manzillar sizni kutmoqda.",
+      "outroImage": "/images/blog/blog-hall-interior.jpg",
+      "tag": "Turizm",
+      "createdAt": "2025-03-15T10:00:00.000Z",
+      "updatedAt": "2025-03-15T10:00:00.000Z"
+    },
+    {
+      "id": "blog_002",
+      "slug": "nafaqat-chet-el-ozbekistonda-ham-bor",
+      "title": "Nafaqat chet el — O'zbekistonda ham bor ajoyib manzillar",
+      "heroImage": "/images/blog/blog-performer-solo.jpg",
+      "heroCaption": "Mahalliy manzillarni kashf etish — bu o'z vatanini yangicha ko'z bilan ko'rishdir.",
+      "body": "Ko'pchilik sayohatchilar chet elga borishni orzu qiladi, lekin o'z yurtidagi go'zalliklarni bilmaydi. O'zbekiston — bu nafaqat qadimiy ipak yo'li, balki zamonaviy madaniyat va san'at markazi hamdir.\n\nMarokand konsert zali — bu shunday joylardan biri. Bu yerda siz nafaqat musiqa tinglaysiz, balki butun bir madaniy tajribani his qilasiz.\n\nHar bir konsert — bu yangi bir dunyo, yangi bir his-tuyg'u. Siz ham bu tajribaning bir qismiga aylaning.",
+      "secondImage": "/images/blog/blog-scholars.jpg",
+      "outroHeading": "Keyingi konsertda siz ham bo'ling!",
+      "outroImage": "/images/blog/blog-ensemble.jpg",
+      "tag": "Madaniyat",
+      "createdAt": "2025-03-16T12:00:00.000Z",
+      "updatedAt": "2025-03-16T12:00:00.000Z"
+    },
+    {
+      "id": "blog_003",
+      "slug": "marokand-konsert-zali-haqida",
+      "title": "Marokand konsert zali — zamonaviy texnologiya va qadimiy ruhning uyg'unashuvi",
+      "heroImage": "/images/blog/blog-hall-interior.jpg",
+      "heroCaption": "3000+ o'rindiqli zamonaviy zal, har bir tomoshabin uchun ideal akustika.",
+      "body": "Marokand konsert zali O'zbekistonning madaniy hayotida yangi sahifa ochdi. Zamonaviy texnologiyalar bilan jihozlangan bu zal, har qanday tadbirni unutilmas qilish uchun yaratilgan.\n\n110 m² zamonaviy sahna, LED ekranlar va professional yoritish tizimlari — bular faqat texnik jihozlar emas, bu san'at va texnologiyaning mukammal uyg'unligidir.\n\nBundan tashqari, zaldagi akustik tizim dunyo standartlariga javob beradi. Har bir nota, har bir so'z zalning eng oxirgi burchagigacha aniq va ravshan eshitiladi.",
+      "outroHeading": "Zalni o'zingiz ko'ring — bugun konsertga tashrif buyuring!",
+      "outroImage": "/images/blog/blog-stage.jpg",
+      "tag": "Zal haqida",
+      "createdAt": "2025-03-17T09:00:00.000Z",
+      "updatedAt": "2025-03-17T09:00:00.000Z"
+    }
+  ]
