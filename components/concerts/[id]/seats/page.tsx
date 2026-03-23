@@ -1,5 +1,4 @@
 // app/concerts/[id]/seats/page.tsx
-import { Navbar } from "@/components/layout/Navbar";
 import SeatSelectionPage from "@/components/concerts/Seatselectionpage";
 import type { Metadata } from "next";
 
@@ -13,10 +12,5 @@ export const metadata: Metadata = {
 };
 
 export default function SeatSelectionRoute({ params }: Props) {
-  return (
-    <>
-      <Navbar />
-      <SeatSelectionPage concertId={params.id} />
-    </>
-  );
+  return <SeatSelectionPage concertId={params.id} />;
 }
