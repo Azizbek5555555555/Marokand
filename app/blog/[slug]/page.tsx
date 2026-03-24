@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { BlogDB } from "@/lib/db";
 import BlogDetailPage from "@/components/blog/Blogdetailpage";
 import { Navbar } from "@/components/layout/Navbar";
+import Footer from "@/components/sections/Footer";
 import type { Metadata } from "next";
 
 interface Props {
@@ -43,6 +44,7 @@ export default function BlogDetailRoute({ params }: Props) {
     <>
       <Navbar />
       <BlogDetailPage post={mapped} />
+      <Footer />
     </>
   );
 }
